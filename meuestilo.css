@@ -3,7 +3,6 @@ body {
     background: rgb(57, 116, 153); 
     background: linear-gradient(rgb(57, 116, 153), grey);
 }
-
 h1 {
     color: rgb(220, 220, 220);
     margin: auto;
