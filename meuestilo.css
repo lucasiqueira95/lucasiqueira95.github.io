@@ -1,0 +1,38 @@
+body {
+   height: 700px;
+    background: rgb(57, 116, 153); 
+    background: linear-gradient(rgb(57, 116, 153), grey);
+}
+
+h1 {
+    color: rgb(220, 220, 220);
+    margin: auto;
+    width: 70%;
+    border: 3px solid rgb(57, 116, 153);
+    padding: 30px;
+      text-align: center;
+}
+
+a:link, a:visited {
+    color: white;
+    padding: 10px 14px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    border: 2px solid #73AD21; 
+  border-radius: 10px;
+}
+
+a:hover, a:active {
+    background-color: rgb(180, 180, 180);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
